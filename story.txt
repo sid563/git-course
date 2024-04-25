@@ -1,1 +1,4 @@
 Sidharth Singh s/o jai shankar singh
+
+take input from users
+add the values
