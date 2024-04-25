@@ -7,3 +7,5 @@ REST
 Microservices
 git
 gcp
+servlet
+jsp
